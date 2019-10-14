@@ -1,0 +1,7 @@
+{
+  "member": [
+    { "name": "yamazaki", "age": 25 },
+    { "name": "nakanishi", "age": 30 },
+    { "name": "suzuki", "age": 50 }
+  ]
+}
